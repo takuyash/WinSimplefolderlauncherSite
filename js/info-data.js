@@ -1,5 +1,14 @@
 var infos = [
   {
+    date: "2026-05-10",
+    title: "アプリ名を変更しました。",
+    body: "アプリ名を「WinSimpleFolderLauncher」に変更しました。",
+    link: {
+      url: "https://github.com/takuyash/WinSimpleFolderLauncher/releases",
+      label: "GitHub Releases を見る"
+    }
+  },
+  {
     date: "2026-02-21",
     title: "v0.9.6 をリリースしました",
     body: "・ランチャー画面を開いている状態でカーソルが他のアプリに移ったら画面を閉じるように修正<br>・ランチャー画面以外が開かれているときは、ランチャー画面を起動できないように修正",

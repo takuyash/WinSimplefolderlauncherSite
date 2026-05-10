@@ -1,5 +1,14 @@
 var infos = [
   {
+    date: "2026-05-10",
+    title: "App Name Changed",
+    body: "The app name has been changed to WinSimpleFolderLauncher.",
+    link: {
+      url: "https://github.com/takuyash/WinSimpleFolderLauncher/releases",
+      label: "GitHub Releases を見る"
+    }
+  },
+  {
     date: "2026-02-21",
     title: "v0.9.6 has been released",
     body: "・ Fixed the launcher screen to close if the cursor is moved to another app while the launcher screen is open.<br>・Fixed the launcher screen to not launch if any other app is open.",
